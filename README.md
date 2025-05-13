@@ -73,7 +73,7 @@ backend/
 
 1. **Clone the Repo**
 ```bash
-git clone https://github.com/your-username/xeno-crm-backend.git
+git clone https://github.com/ShreyGrg03/Mini-CRM-Platform-Xeno-Assignment.git
 cd xeno-crm-backend/backend
 ```
 
@@ -102,7 +102,7 @@ Server will start on `http://localhost:5000`
 
 ---
 
-## 📬 API Endpoints (Use Postman)
+## 📬 API Endpoints (Use Postman) (Demo Use)
 
 ### 👤 Create Customer
 ```
